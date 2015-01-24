@@ -1,0 +1,10 @@
+* Capture print output from main program.
+* A WATCH window
+* Breakpoints
+* Step into/out of functions.
+* A full interpreter (with readline support)
+* Colours!
+* Source for part/all of the stack.
+* List locals.
+
+
